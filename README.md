@@ -1,4 +1,4 @@
-# Zork-Kdo LoxkIt Free Version 
+# Zork-Kdo LockIt Free Version 
 <img src="LockIt.png"><br>
 
 
