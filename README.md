@@ -50,3 +50,15 @@
 
 > `python3 main.py`
 
+#### One Line Command Install
+
+Termux-Command
+```bash
+cd ~ && rm -rf LockIt && apt update && apt upgrade && pkg update && pkg upgrade && pkg install git && git clone https://github.com/samay825/LockIt && pkg install python && pkg install wget && cd LockIt && python3 main.py
+```
+If Requirements already installed then run only this command
+```bash
+git clone https://github.com/samay825/LockIt && cd LockIt && python3 main.py
+```
+
+
