@@ -26,7 +26,7 @@
 
 * `No missing code Issues.`
 
-*  For Paid Version Contact Instagram : sincryptasur 
+*  For Paid Version Contact Instagram : sincryptzork
 
 <br>
 
@@ -54,7 +54,7 @@
 
 Termux-Command
 ```bash
-cd ~ && rm -rf LockIt && apt update && apt upgrade && pkg update && pkg upgrade && pkg install git && git clone https://github.com/samay825/LockIt && pkg install python && pkg install wget && cd LockIt && python3 main.py
+cd ~ && rm -rf LockIt && pkg update -y && pkg upgrade -y && pkg install git -y && git clone https://github.com/samay825/LockIt && pkg install python -y && pkg install wget -y && cd LockIt && python3 main.py
 ```
 If Requirements already installed then run only this command
 ```bash
